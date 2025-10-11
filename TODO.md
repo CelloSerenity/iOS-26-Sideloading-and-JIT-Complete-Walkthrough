@@ -1,0 +1,4 @@
+- [ ] Overall cleanup
+- [X] Find further instructions for Geode
+- [ ] Make the stuff about TXM a little cleaner and easier to understand-New page?
+- [ ] Images?
