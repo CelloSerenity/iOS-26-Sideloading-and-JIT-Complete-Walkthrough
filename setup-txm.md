@@ -1,11 +1,11 @@
 1. Navigate to StikDebug → Settings. Toggle all switches on ("Run Default Script After Connecting", "Picture in Picture", and "Always Run Scripts").
-2. Download the corresponding script for your desired app:
+2. Make sure you have the latest version of your desired app installed, and download the corresponding script:
 -  App-script link:
 - [DolphiniOS (beta)](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/DolphiniOS+UTM.js)
 - [UTM](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/DolphiniOS+UTM.js)
-- [Amethyst (Actions)](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/Amethyst.js)
+- [Amethyst (GitHub Actions)](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/Amethyst.js)
 - [maciOS](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/maciOS.js)
-- [MeloNX (beta)](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/MeloNX.js)
+- [MeloNX](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/MeloNX.js)
 - [Geode](https://github.com/CelloSerenity/iOS-26-JIT-LiveContainer-Walkthrough/releases/download/Scripts/Geode.js)
 
 > [!NOTE]

@@ -9,6 +9,4 @@ Now, to begin setting up JIT:
 
 Next:
 
-At the bottom of your StikDebug's settings, is "TXM" or "Non-TXM" displayed:
-- [TXM](./setup-txm.md)
-- [Non-TXM](./finished.md)
+Proceed to [install & setup Get More Ram](./install-getmoreram.md)
