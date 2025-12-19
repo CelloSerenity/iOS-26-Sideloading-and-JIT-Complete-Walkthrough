@@ -1,6 +1,9 @@
 # Installing SideStore+LiveContainer (unofficial)
-1. Install the latest nightly SideStore+LiveContainer by clicking [here](https://intradeus.github.io/http-protocol-redirector?r=sidestore://install?url=https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa) on your idevice.
-2. In SideStore+LiveContainer Settings, select ""
-3. Open the SideStore within LiveContainer+SideStore and refresh LiveContainer manually.
+1. Download the latest [nightly SideStore+LiveContainer.ipa](https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa).
+2. In SideStore, install the .ipa from Downloads. Select `Keep App Extensions (Use Main Profile)` if it asks.
+2. Open the newly-installed LiveContainer and select the SideStore button. When it asks for a pairing file, select `Ok`, then select the file at `On My iPhone/iPad → SideStore → ALTPairingFile.mobiledevicepairing`.
+3. Refresh LiveContainer manually.
+4. Delete SideStore (standalone).
 
-
+## Next:
+Follow the steps to [install StikDebug](./install-stikdebug.md).
