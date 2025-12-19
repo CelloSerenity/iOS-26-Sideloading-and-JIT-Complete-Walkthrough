@@ -1,7 +1,6 @@
-1. Install LiveContainer+SideStore (Nightly) using [iloader](https://github.com/nab138/iloader/releases) for your device.
-2. In iloader, select "Manage Pairing File", then "Place Pairing File" to the right of StikDebug.
-3. Open LiveContainer+SideStore and refresh it manually.
+# Installing SideStore+LiveContainer (unofficial)
+1. Install the latest nightly SideStore+LiveContainer by clicking [here](https://intradeus.github.io/http-protocol-redirector?r=sidestore:/install?url=https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa) on your device.
+2. In SideStore+LiveContainer Settings, select ""
+3. Open the SideStore within LiveContainer+SideStore and refresh LiveContainer manually.
 
-Next:
 
-Proceed to [setup LiveContainer](./setup-lc.md)
